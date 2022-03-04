@@ -1,6 +1,6 @@
 # Xpeng
 
-![version: v1.0.0 (shields.io)](https://img.shields.io/badge/version-v1.0.0-green) ![version: v1.0.0 (shields.io)](https://img.shields.io/badge/framework-v4.8-orange)![version: v1.0.0 (shields.io)](https://img.shields.io/badge/License-MIT-blue)
+![version: v1.0.0 (shields.io)](https://img.shields.io/badge/version-v1.0.0-green) ![version: v1.0.0 (shields.io)](https://img.shields.io/badge/framework-v4.8-orange)  ![version: v1.0.0 (shields.io)](https://img.shields.io/badge/License-MIT-blue)
 
 
 
